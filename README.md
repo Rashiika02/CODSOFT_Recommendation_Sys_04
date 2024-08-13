@@ -1,7 +1,7 @@
 # CODSOFT_Recommendation_Sys_04
 RECOMMENDATION SYSTEM
 <br>OVERVIEW
-<br>This repository contains a simple movie recommendation system implemented in Python. The system leverages user ratings to recommend movies to users based on the preferences of similar users. It uses a basic collaborative filtering approach with cosine similarity to determine user similarity and generate recommendations.
+<br>This is a simple movie recommendation system implemented in Python. The system leverages user ratings to recommend movies to users based on the preferences of similar users. It uses a basic collaborative filtering approach with cosine similarity to determine user similarity and generate recommendations.
 
 <br>FEATURES
 <br>User-Movie Matrix: Constructs a matrix of user ratings for different movies.
